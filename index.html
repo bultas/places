@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+	<head>
+
+		<!-- Meta -->
+		<meta charset="UTF-8">
+		<title>Places</title>
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="bower_components/css-kit/css/basic.css">
+		<link rel="stylesheet" href="bower_components/css-kit/css/grid.css">
+		<link rel="stylesheet" href="src/css/style.css">
+
+		<!-- Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800,900&subset=latin' rel='stylesheet' type='text/css'>
+
+		<!-- Scripts -->
+		<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script> <!-- FIXME - Just for Map Component -->
+		<script src="bower_components/react/react-with-addons.js"></script>
+		<script src="bower_components/react/JSXTransformer.js"></script>
+		<script src="bower_components/jquery/dist/jquery.js"></script>
+
+		<!-- load Components -->
+		<script type="text/jsx" src="src/components/list.js"></script>
+		<script type="text/jsx" src="src/components/map.js"></script>
+		<script type="text/jsx" src="src/components/app.js"></script>
+		
+		<!-- Load App -->
+		<script type="text/jsx">
+			/** @jsx React.DOM */
+			React.renderComponent(
+				<App url="places.json" />,
+				document.body
+			);
+		</script>
+
+	</head>
+
+	<!-- App lives here -->
+	<body></body>
+
+</html>
