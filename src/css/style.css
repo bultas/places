@@ -7,31 +7,79 @@ html {
 body {
   height: 100%;
   width: 100%;
-
+  overflow: hidden;
   background-color: #f7f7f7;
 }
 
+a {
+	text-decoration: none;
+	color:#B6572B;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+
+
+/*App*/
+
+.header {
+	background: #222;
+	padding: 1em 2em;
+}
+
+.header img {
+	height: 40px;
+}
+
+.header ul {
+	margin: 0;
+}
+
+.header .description {
+	margin-bottom: 10px;
+	position: absolute;
+	color: #fff;
+	padding-left: 2em;
+	padding-top: 0.3em;
+	font-weight: bold;
+	color: #eee;
+}
 
 .list {
   height: 100%;
 }
 
-.places {
-	padding: 1em 1em 1em 0;
+.listFrame {
+	position: fixed;
+	overflow-y: scroll;
+	height: 100%;
+
 }
 
-.places .place {
+.places {
+	padding: 1em 1em 1em 0;
+	margin-bottom: 3em;
+}
+
+.places img {
+	max-width: 100%;
+}
+
+.places .place, .places .detail {
 	padding: 2em;
 	background-color: #fff;
 	border-bottom: 3px solid #eee;
 	margin-bottom: 2em;
 }
 
-.places .place .description {
-	font-size: 0.9em;
+.places .place .description, .places .detail .description {
+	font-size: 0.8em;
+	line-height: 1.5em;
 	margin-bottom: 1em;
 }
 
-.places .place .adress {
-	font-size: 0.9em;
+.places .place .address, .places .detail .address {
+	font-size: 0.8em;
 }

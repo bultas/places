@@ -12,31 +12,65 @@
 		<link rel="stylesheet" href="src/css/style.css">
 
 		<!-- Fonts -->
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800,900&subset=latin' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
 		<!-- Scripts -->
 		<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script> <!-- FIXME - Just for Map Component -->
 		<script src="bower_components/react/react-with-addons.js"></script>
 		<script src="bower_components/react/JSXTransformer.js"></script>
 		<script src="bower_components/jquery/dist/jquery.js"></script>
+		<script src="bower_components/director/build/director.min.js"></script>
 
 		<!-- load Components -->
+		<script type="text/jsx" src="src/components/header.js"></script>
+		<script type="text/jsx" src="src/components/detail.js"></script>
+		<script type="text/jsx" src="src/components/item.js"></script>
 		<script type="text/jsx" src="src/components/list.js"></script>
 		<script type="text/jsx" src="src/components/map.js"></script>
-		<script type="text/jsx" src="src/components/app.js"></script>
-		
+		<script type="text/jsx" src="src/components/places.js"></script>
+
 		<!-- Load App -->
 		<script type="text/jsx">
 			/** @jsx React.DOM */
 			React.renderComponent(
-				<App url="data.json" />,
+				<Places url="data.json" />,
 				document.body
 			);
 		</script>
+
+		<!-- Router and remap -->
+		<script type="text/jsx">
+			/** @jsx React.DOM */
+			function showPlace(placeId) {
+				React.renderComponent(
+					<Places url="data.json" id={placeId} />,
+					document.body
+				);
+			}
+
+			function showPlaces(placeId) {
+				React.renderComponent(
+					<Places url="data.json" />,
+					document.body
+				);
+			}
+
+			var routes = {
+			  '/places/:placeId': showPlace,
+			  '/places': showPlaces
+			};
+
+			var router = Router(routes).configure(
+				// { html5history: true }
+			).init();		
+		</script>
+
+		
 
 	</head>
 
 	<!-- App lives here -->
 	<body></body>
+
 
 </html>
