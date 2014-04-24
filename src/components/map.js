@@ -28,6 +28,8 @@ Map = React.createClass({
 
 	  this.state.markers = [];
 
+	  var infowindow = new google.maps.InfoWindow();
+
 	  // add new markers
 	  points.forEach( (function( point ) {
 
@@ -36,21 +38,28 @@ Map = React.createClass({
 	    var marker = new google.maps.Marker({
 	      position: location,
 	      map: map,
-	      animation: google.maps.Animation.DROP,
+	      // animation: google.maps.Animation.DROP,
 	      title: point.name
 	    });
+
+	    var contentString = "<h3><a href='#places/" + point.id + "'>" + point.name + "</a></h3><img width='200px' src='" + point.img + "'></span>";
+
+	    // Map Window events
+	    Map.makeInfoWindowEvent(map, infowindow, contentString, marker);
 
 	    markers.push( marker );
 
 	  }) );
 
 	  this.setState( { markers : markers });
-
-	  // add bounced effect
-	  // markers.forEach( function(marker) {
-	  //   google.maps.event.addListener(marker, 'click', toggleBounce);
-	  // } );
-
+	},
+	statics: {
+		makeInfoWindowEvent: function(map, infowindow, contentString, marker) {
+			google.maps.event.addListener(marker, 'click', function() {
+			    infowindow.setContent(contentString);
+			    infowindow.open(map, marker);
+			});
+		}
 	},
 	componentDidMount: function() {
 		var mapOptions = {

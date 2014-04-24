@@ -82,4 +82,5 @@ a:hover {
 
 .places .place .address, .places .detail .address {
 	font-size: 0.8em;
+	font-style: italic;
 }

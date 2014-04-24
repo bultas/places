@@ -40,7 +40,7 @@ var Places = React.createClass({
 					<Header />
 					<div className="grid">
 						<div id="map" className="col-1-2 map">
-							<Map latitude={49.817492} longitude={15.472962} zoom={7} points={this.state.data} width={"100%"} height={document.body.clientHeight} gmaps_api_key="AIzaSyDVva2wfbJVw70rPm_2XYLl76WVS9W63Zc" />
+							<Map latitude={49.817492} longitude={15.472962} zoom={7} points={this.state.data} width={"100%"} height={document.body.clientHeight} />
 						</div>
 						<div className="col-1-2 list">
 							<List data={this.state.data} />

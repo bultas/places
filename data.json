@@ -7,7 +7,8 @@
 		"www":"www.autocamposek.cz",
 		"address":"Oseku u Duchcova, na ulici Nelsonská 669",
 		"latitude":50.075651,
-		"longitude":12.631531
+		"longitude":12.631531,
+		"img": "http://www.duocamp.cz/anything/images/31-kemp-duo-camp-branzez.jpg"
 	},
 	{"id":2,"name":"Autocamp Sedmihorky","description":" \nDalším velmi oblíbeným kempem je Autocamp Sedmihorky, nabízející celkem 70 karavanových stání. Najdeme ho na adrese Sedmihorky 72 v okrese Turnov, přímo v centru CHKO a geoparku UNESO Český ráj. Nachází se v klidném prostředí mezi loukami, skalami a lesy.\n \nSoučástí vybavení kempu je venkovní i vnitřní jídelna, kuchyňka s plynovými vařiči a tři budovy se sociálním zařízením. Součástí areálu je také rybník Blaník, kde je možné se koupat, ale i volně rybařit (s povolením Autocampu).\n \nV kempu je výlevka chemických WC a celkem 160 elektrických přípojek s maximálním příkonem 10A. Karavanová stání jsou na travnatých plochách a najdete zde dokonce servisní stání, určené pro velké obytné vozy.","www":"www.campsedmihorky.cz","address":"Sedmihorky 72 v okrese Turnov", "latitude":49.817492, "longitude":15.472962 },
 	{"id":3,"name":"Camping Vranovská pláž","description":"V okrese Znojmo na jižní Moravě, na Vranovské pláži, se nachází jeden z našich nejoblíbenějších kempů, který nabízí nejrůznější spektrum ubytování. Míst pro karavany je zde celkem 80 a jejich součástí je také elektrická přípojka s maximálním příkonem 16A.\n \nJe zde výlevka na chemické WC a dokonce možnost výměny plynové bomby.","www":"www.vranovska-plaz.cz","address":"Znojmo na jižní Moravě, na Vranovské pláži"},

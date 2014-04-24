@@ -6,6 +6,7 @@ var List = React.createClass({
 				<Item
 					id={place.id}
 					name={place.name}
+					img={place.img ? place.img : "http://www.duocamp.cz/anything/images/31-kemp-duo-camp-branzez.jpg"}
 					www={place.www}
 					address={place.address} 
 					description={place.description} />
