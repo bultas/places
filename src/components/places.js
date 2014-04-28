@@ -40,7 +40,7 @@ var Places = React.createClass({
 					<Header />
 					<div className="grid">
 						<div id="map" className="col-1-2 map">
-							<Map latitude={49.817492} longitude={15.472962} zoom={7} points={this.state.data} width={"100%"} height={document.body.clientHeight} />
+							<Map latitude={49.817492} longitude={15.472962} zoom={8} points={this.state.data} width={"100%"} height={document.body.clientHeight} />
 						</div>
 						<div className="col-1-2 list">
 							<List data={this.state.data} />
@@ -55,7 +55,7 @@ var Places = React.createClass({
 					<Header />
 					<div className="grid">
 						<div id="map" className="col-1-2 map">
-							<Map latitude={this.state.data[0].latitude} longitude={this.state.data[0].longitude} zoom={10} points={this.state.data} width={"100%"} height={document.body.clientHeight} />
+							<Map latitude={this.state.data[0].latitude} longitude={this.state.data[0].longitude} zoom={9} points={this.state.data} width={"100%"} height={document.body.clientHeight} />
 						</div>
 						<div className="col-1-2 list">
 							<Detail data={this.state.data} />
