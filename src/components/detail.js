@@ -9,7 +9,7 @@ var Detail = React.createClass({
 						<h1>{this.props.data[0].name}</h1>
 						<img src={this.props.data[0].img ? this.props.data[0].img : "http://www.duocamp.cz/anything/images/31-kemp-duo-camp-branzez.jpg"} />
 						<p className="description">{this.props.data[0].description}</p>
-						<div className="www"><a href="#">{this.props.data[0].www}</a></div>
+						<div className="www"><a href={ "http://" + this.props.data[0].www}>{this.props.data[0].www}</a></div>
 						<div className="address">{this.props.data[0].address}</div>
 					</div>
 				</div>
