@@ -1,22 +1,282 @@
 [
-	{
-		"name":"Autocamp Osek",
-		"label": "label",
-		"id":1,
-		"description":"V Oseku u Duchcova, na ulici Nelsonská 669, se nachází Autocamp Osek, určený také pro karavany a obytné vozy. Jedná se o kemp v poklidném prostředí u Krušných hor, s možností ubytování v chatkách, stanech nebo karavanech. V areálu kempu se nachází také penzion Horal.\n \nJe zde celkem 50 elektrických přípojek a výlevka na chemické WC. Není zde možné vyměnit plynové bomby.",
-		"www":"www.autocamposek.cz",
-		"address":"Oseku u Duchcova, na ulici Nelsonská 669",
-		"latitude":50.075651,
-		"longitude":12.631531,
-		"img": "http://www.duocamp.cz/anything/images/31-kemp-duo-camp-branzez.jpg"
-	},
-	{"id":2,"name":"Autocamp Sedmihorky","description":" \nDalším velmi oblíbeným kempem je Autocamp Sedmihorky, nabízející celkem 70 karavanových stání. Najdeme ho na adrese Sedmihorky 72 v okrese Turnov, přímo v centru CHKO a geoparku UNESO Český ráj. Nachází se v klidném prostředí mezi loukami, skalami a lesy.\n \nSoučástí vybavení kempu je venkovní i vnitřní jídelna, kuchyňka s plynovými vařiči a tři budovy se sociálním zařízením. Součástí areálu je také rybník Blaník, kde je možné se koupat, ale i volně rybařit (s povolením Autocampu).\n \nV kempu je výlevka chemických WC a celkem 160 elektrických přípojek s maximálním příkonem 10A. Karavanová stání jsou na travnatých plochách a najdete zde dokonce servisní stání, určené pro velké obytné vozy.","www":"www.campsedmihorky.cz","address":"Sedmihorky 72 v okrese Turnov", "latitude":49.817492, "longitude":15.472962 },
-	{"id":3,"name":"Camping Vranovská pláž","description":"V okrese Znojmo na jižní Moravě, na Vranovské pláži, se nachází jeden z našich nejoblíbenějších kempů, který nabízí nejrůznější spektrum ubytování. Míst pro karavany je zde celkem 80 a jejich součástí je také elektrická přípojka s maximálním příkonem 16A.\n \nJe zde výlevka na chemické WC a dokonce možnost výměny plynové bomby.","www":"www.vranovska-plaz.cz","address":"Znojmo na jižní Moravě, na Vranovské pláži"},
-	{"id":4,"name":"Camp Dolce","description":"Na adrese Oblanov 37 v okrese Trutnov najdeme další z nejvyhledávanějších kempů, určených také pro karavany. Nachází se v krásném údolí Dolce, jen asi 5 km od města Trutnova, obklopen lesy, takže se skvěle hodí pro rodiny s dětmi, houbaře, rybáře i cyklisty. Vzhledem ke své poloze se skvěle hodí coby výchozí bod k výletům do Krkonoš.\n \nV areálu kempu je přírodní nádrž s travnatou pláží, dětské hřiště, kiosky, sportovní areál i rybník, určený pro sportovní rybolov. Je zde možnost zahrát si tenis, volejbal, minigolf nebo si půjčit horská kola.\n \nPro karavany jsou zde elektrické přípojky s maximálním příkonem 16A, možnost výměny plynových bomb i výlevka na chemické WC.","www":"www.camp-dolce.cz","address":"Oblanov 37 v okrese Trutnov", "latitude":50.174479, "longitude":12.889023},
-	{"id":5,"name":"Autocamping Výr","description":"Pouhých 10 km severně od Znojma, na adrese Přehrada - Výrovice, najdeme Autocamping Výr, ležící v blízkosti Národního parku Podyjí, velmi příjemném a nedotčeném prostředí. Areál kempu je rozložen podél břehů přehrady Výrovice, kde se nachází příjemná písečná pláž a údajně také jedna z nejteplejších vod na jižní Moravě.\n \nKemp nabízí WiFi připojení zdarma, pro karavany pak elektrické přípojky, výlevku na chemické WC a možnost výměny plynových bomb.","www":"www.campvyr.cz","address":"10 km severně od Znojma, na adrese Přehrada - Výrovice", "latitude":50.075651, "longitude":50.075651},
-	{"id":6,"name":"Kanak - kemp Branná","description":"V romantickém prostředí pravého břehu řeky Vltavy, přibližně v polovině cesty mezi Českým Krumlovem a Vyšším Brodem v jižních Čechách, leží kemp Kanak - Branná, který je svou polohou výhodný zejména pro vodáky.\n \nSoučástí areálu je restaurace, sanitární zařízení a také Kanak - půjčovna lodí a raftů.","www":"www.kempbranna.cz","address":"kemp Branná, Vltava ř.Km 298, 38201 Český Krumlov"},
-	{"id":7,"name":"Autokemp Frenštát pod Radhoštěm","description":"Dolní 1807 - právě na této adrese, přímo ve městě Frenštát pod Radhoštěm, najdeme kemp s širokou nabídkou služeb a stáním pro karavany a možností napojení na venkovní přívod vody a elektrickou přípojku s maximálním příkonem 380V, kterých je zde celkem 24.\n \nPro obytné vozy a karavany je v kempu vyhrazena příjemná zatravněná plocha se vzrostlými stromy. K dispozici v kempu je kuchyňka, prádelna, společenská místnost, WC a sprchy. K dispozici je WiFi síť.\n\n","www":"www.autokemp-frenstat.cz","address":"Dolní 1807 - Frenštát pod Radhoštěm"},
-	{"id":8,"name":"Safari Kemp","description":"Ve Dvoře Králové nad Labem, kde také najdeme jednu z našich nejznámějších zoologických zahrad, se nachází také kemp, konkrétně na ulici Štefánikova 1029. Areál je složen z pěti zděných bungalovů s deseti pokoji hotelového typu a  samozřejmě také z dostatku míst pro karavany, stany a obytná auta.\n \nVýjimečnost tohoto kempu spočívá především v jeho umístění ve výběhu afrických zvířat, od kterého je kemp oddělen pouze plotem, takže umožňuje pozorování zvěře.","www":"www.safarikemp.cz","address":"Ve Dvoře Králové nad Labem, ulice Štefánikova 1029"},
-	{"id":9,"name":"Autokemp Merkur Pasohlávky","description":"Jedním z nejoblíbenějších autokempů v České republice je také ATC Merkur Pasohlávky, nacházející se na břehu horní novomlýnské nádrže. Areál o celkové rozloze 41,5 ha je uzavřen a určen pouze pro návštěvníky autokempu, kterým je k dispozici vodní plocha o rozloze 23 ha, tvořena dvěma lagunami. Pláže jsou travnaté a písčité, vstup do vody je pozvolný, takže se skvěle hodí i pro menší děti.\n \nAutokemp nabízí svým návštěvníkům restauraci, stánky s občerstvením, suvenýry, vinné sklípky a diskotéky v blízkosti kempu, kde dokonce bývá také letní kino.\n \nMíst pro stany a karavany je zde skutečně dostatek, a to v ohraničených boxech.  Elektrických přípojek je zde celkem 574, přičemž jejich maximální příkon je 220V/10A. V kempu je výlevka pro chemické WC a možnost výměny plynové bomby.","www":"www.kemp-merkur.cz","address":"ATC Merkur Pasohlávky, nacházející se na břehu horní novomlýnské nádrže"},
-	{"id":10,"name":"Camping Lipno Modřín","description":"Další velmi oblíbený kemp pro karavany se nachází v Lipně 307 a nese název Camping Lipno Modřín. Má velmi krásnou polohu přímo u jezera Lipno, nedaleko obce Lipno nad Vltavou, a lemuje ho osvětlená cyklo / in-line stezka. Krom toho je zde sportovní areál, rybářská zátoka, dětské hřiště a oblázková pláž.\n \nPro karavany a obytné vozy je zde celkem 160 přípojek a výlevka pro chemické WC.","www":"www.campinglipno.cz","address":"Lipno 307"}
+  {
+    "id":1,
+    "name":"Autocamp Osek",
+    "description":"V Oseku u Duchcova, na ulici Nelsonská 669, se nachází Autocamp Osek, určený také pro karavany a obytné vozy. Jedná se o kemp v poklidném prostředí u Krušných hor, s možností ubytování v chatkách, stanech nebo karavanech. V areálu kempu se nachází také penzion Horal.\n \nJe zde celkem 50 elektrických přípojek a výlevka na chemické WC. Není zde možné vyměnit plynové bomby.",
+    "img":"http://www.autocamposek.cz/wp-content/uploads/2011/03/pohled-na-autokemp5-1024x768.jpg",
+    "www":"www.autocamposek.cz",
+    "address":"Oseku u Duchcova, na ulici Nelsonská 669",
+    "latitude":50.621953,
+    "longitude":13.685077
+  },
+  {
+    "id":2,
+    "name":"Autocamp Sedmihorky",
+    "description":" \nDalším velmi oblíbeným kempem je Autocamp Sedmihorky, nabízející celkem 70 karavanových stání. Najdeme ho na adrese Sedmihorky 72 v okrese Turnov, přímo v centru CHKO a geoparku UNESO Český ráj. Nachází se v klidném prostředí mezi loukami, skalami a lesy.\n \nSoučástí vybavení kempu je venkovní i vnitřní jídelna, kuchyňka s plynovými vařiči a tři budovy se sociálním zařízením. Součástí areálu je také rybník Blaník, kde je možné se koupat, ale i volně rybařit (s povolením Autocampu).\n \nV kempu je výlevka chemických WC a celkem 160 elektrických přípojek s maximálním příkonem 10A. Karavanová stání jsou na travnatých plochách a najdete zde dokonce servisní stání, určené pro velké obytné vozy.",
+    "img":"http://www.campsedmihorky.cz/wp-content/uploads/2011/01/DSC_8411web1.jpg",
+    "www":"www.campsedmihorky.cz",
+    "address":"Sedmihorky 72 v okrese Turnov",
+    "latitude":50.568801,
+    "longitude":15.16865
+  },
+  {
+    "id":3,
+    "name":"Camping Vranovská pláž",
+    "description":"V okrese Znojmo na jižní Moravě, na Vranovské pláži, se nachází jeden z našich nejoblíbenějších kempů, který nabízí nejrůznější spektrum ubytování. Míst pro karavany je zde celkem 80 a jejich součástí je také elektrická přípojka s maximálním příkonem 16A.\n \nJe zde výlevka na chemické WC a dokonce možnost výměny plynové bomby.",
+    "img":"http://www.cyklistevitani.cz/images/photos/cykliste-vitani/big/1206b.jpg",
+    "www":"www.vranovska-plaz.cz",
+    "address":"Znojmo na jižní Moravě, na Vranovské pláži",
+    "latitude":48.898672,
+    "longitude":15.811704
+  },
+  {
+    "id":4,
+    "name":"Camp Dolce",
+    "description":"Na adrese Oblanov 37 v okrese Trutnov najdeme další z nejvyhledávanějších kempů, určených také pro karavany. Nachází se v krásném údolí Dolce, jen asi 5 km od města Trutnova, obklopen lesy, takže se skvěle hodí pro rodiny s dětmi, houbaře, rybáře i cyklisty. Vzhledem ke své poloze se skvěle hodí coby výchozí bod k výletům do Krkonoš.\n \nV areálu kempu je přírodní nádrž s travnatou pláží, dětské hřiště, kiosky, sportovní areál i rybník, určený pro sportovní rybolov. Je zde možnost zahrát si tenis, volejbal, minigolf nebo si půjčit horská kola.\n \nPro karavany jsou zde elektrické přípojky s maximálním příkonem 16A, možnost výměny plynových bomb i výlevka na chemické WC.",
+    "img":"http://www.dokempu.cz/media/Image/zarizeni/5785/dolce-prirodni-koupani.jpg",
+    "www":"www.camp-dolce.cz",
+    "address":"Oblanov 37 v okrese Trutnov",
+    "latitude":50.546328,
+    "longitude":15.874832
+  },
+  {
+    "id":5,
+    "name":"Autocamping Výr",
+    "description":"Pouhých 10 km severně od Znojma, na adrese Přehrada - Výrovice, najdeme Autocamping Výr, ležící v blízkosti Národního parku Podyjí, velmi příjemném a nedotčeném prostředí. Areál kempu je rozložen podél břehů přehrady Výrovice, kde se nachází příjemná písečná pláž a údajně také jedna z nejteplejších vod na jižní Moravě.\n \nKemp nabízí WiFi připojení zdarma, pro karavany pak elektrické přípojky, výlevku na chemické WC a možnost výměny plynových bomb.",
+    "img":"http://www.campvyr.cz/application/layouts/images/layout/photo-frame-pic1.jpg",
+    "www":"www.campvyr.cz",
+    "address":"10 km severně od Znojma, na adrese Přehrada - Výrovice",
+    "latitude":48.928256,
+    "longitude":16.120291
+  },
+  {
+    "id":6,
+    "name":"Kanak - kemp Branná",
+    "description":"V romantickém prostředí pravého břehu řeky Vltavy, přibližně v polovině cesty mezi Českým Krumlovem a Vyšším Brodem v jižních Čechách, leží kemp Kanak - Branná, který je svou polohou výhodný zejména pro vodáky.\n \nSoučástí areálu je restaurace, sanitární zařízení a také Kanak - půjčovna lodí a raftů.",
+    "img":"http://www.kanak.cz/images/content/kemp/fotogalerie/historie_kempu/foto_28.jpg",
+    "www":"www.kempbranna.cz",
+    "address":"kemp Branná, Vltava ř.Km 298, 38201 Český Krumlov",
+    "latitude":48.71376,
+    "longitude":14.343251
+  },
+  {
+    "id":7,
+    "name":"Autokemp Frenštát pod Radhoštěm",
+    "description":"Dolní 1807 - právě na této adrese, přímo ve městě Frenštát pod Radhoštěm, najdeme kemp s širokou nabídkou služeb a stáním pro karavany a možností napojení na venkovní přívod vody a elektrickou přípojku s maximálním příkonem 380V, kterých je zde celkem 24.\n \nPro obytné vozy a karavany je v kempu vyhrazena příjemná zatravněná plocha se vzrostlými stromy. K dispozici v kempu je kuchyňka, prádelna, společenská místnost, WC a sprchy. K dispozici je WiFi síť.\n\n",
+    "img":"http://www.desperado.cz/wp-content/gallery/frenstat-pod-radhostem-autokemp/img_7275.jpg",
+    "www":"www.autokemp-frenstat.cz",
+    "address":"Dolní 1807 - Frenštát pod Radhoštěm",
+    "latitude":49.551758,
+    "longitude":18.204578
+  },
+  {
+    "id":8,
+    "name":"Safari Kemp",
+    "description":"Ve Dvoře Králové nad Labem, kde také najdeme jednu z našich nejznámějších zoologických zahrad, se nachází také kemp, konkrétně na ulici Štefánikova 1029. Areál je složen z pěti zděných bungalovů s deseti pokoji hotelového typu a  samozřejmě také z dostatku míst pro karavany, stany a obytná auta.\n \nVýjimečnost tohoto kempu spočívá především v jeho umístění ve výběhu afrických zvířat, od kterého je kemp oddělen pouze plotem, takže umožňuje pozorování zvěře.",
+    "img":"http://www.kampocesku.cz/gallery/2010_06/20_safari_IMG_2667.jpg",
+    "www":"www.safarikemp.cz",
+    "address":"Ve Dvoře Králové nad Labem, ulice Štefánikova 1029",
+    "latitude":50.434292,
+    "longitude":15.801036
+  },
+  {
+    "id":9,
+    "name":"Autokemp Merkur Pasohlávky",
+    "description":"Jedním z nejoblíbenějších autokempů v České republice je také ATC Merkur Pasohlávky, nacházející se na břehu horní novomlýnské nádrže. Areál o celkové rozloze 41,5 ha je uzavřen a určen pouze pro návštěvníky autokempu, kterým je k dispozici vodní plocha o rozloze 23 ha, tvořena dvěma lagunami. Pláže jsou travnaté a písčité, vstup do vody je pozvolný, takže se skvěle hodí i pro menší děti.\n \nAutokemp nabízí svým návštěvníkům restauraci, stánky s občerstvením, suvenýry, vinné sklípky a diskotéky v blízkosti kempu, kde dokonce bývá také letní kino.\n \nMíst pro stany a karavany je zde skutečně dostatek, a to v ohraničených boxech.  Elektrických přípojek je zde celkem 574, přičemž jejich maximální příkon je 220V/10A. V kempu je výlevka pro chemické WC a možnost výměny plynové bomby.",
+    "img":"http://www.jizni-morava.cz/doc/img/2638.jpg",
+    "www":"www.kemp-merkur.cz",
+    "address":"ATC Merkur Pasohlávky, nacházející se na břehu horní novomlýnské nádrže",
+    "latitude":48.900014,
+    "longitude":16.571584
+  },
+  {
+    "id":10,
+    "name":"Camping Lipno Modřín",
+    "description":"Další velmi oblíbený kemp pro karavany se nachází v Lipně 307 a nese název Camping Lipno Modřín. Má velmi krásnou polohu přímo u jezera Lipno, nedaleko obce Lipno nad Vltavou, a lemuje ho osvětlená cyklo / in-line stezka. Krom toho je zde sportovní areál, rybářská zátoka, dětské hřiště a oblázková pláž.\n \nPro karavany a obytné vozy je zde celkem 160 přípojek a výlevka pro chemické WC.",
+    "img":"http://www.lipnoservis.cz/files/lipno-bavi-celou-rodinu/images/page/1000x1000-1333219105-camping-lipno-modrin.jpg",
+    "www":"www.campinglipno.cz",
+    "address":"Lipno 307",
+    "latitude":50.300602,
+    "longitude":13.680872
+  },
+  {
+    "id":11,
+    "name":"Camping OASE Praha",
+    "description":"na adrese Zlatníky 47, Dolní Břežany, přibližně 5 km směrem na jih od Prahy, najdete příjemný kemp přímo nadosah nejen hlavnímu městu, ale také hradu Karlštejn, zámku Konopiště a dalším významným památkám. Areál o rozloze 2 ha nabízí celkem 120 míst pro karavany a obytné vozy. Je zde dohromady 110 elektrických přípojek s maximálním příkonem 6 A a výlevka na chemické WC.",
+    "img":"http://www.campingoase.cz/ImageHandler.ashx?UploadedFile=true&pg=%7B0%7D&image=/App_Data/UserImages/image/2013/w-hlavni.jpg",
+    "www":"www.campingoase.cz",
+    "address":"Zlatníky 47, Dolní Břežany, 252 41",
+    "latitude":49.962297,
+    "longitude":14.460265
+  },
+  {
+    "id":12,
+    "name":"Lesní tábořiště Nebřich",
+    "description":"u břehů Slapské přehrady, asi 45 km směrem na jih od Prahy, v Nebřichu, narazíte na lesní tábořiště uloženém v poklidném prostředí z větší části zastíněné stromy. Směrem na západ je tábořiště tvořeno písčito oblázkovou pláží. Kromě umývárny se sprchami a teplou vodou je návštěvníkům k dispozici dětské hřiště, kiosek s posezením a stůl pro stolní tenis.",
+    "img":"http://tralandiastatic.com/rental_images/2013_06/05/qp/t6/medium.jpeg",
+    "www":"www.lesnitaboriste.cz",
+    "address":"Nebřich, 25744 Netvořice",
+    "latitude":49.77154,
+    "longitude":14.428838
+  },
+  {
+    "id":13,
+    "name":"SK Mšeno",
+    "description":"další kemp s místy pro karavany a obytné vozy najdete na adrese Boleslavská - stadion 398 v obci Mšeno. Kemp je výchozí brannou do CHKO Kokořínsko a k dispozici je ubytování v šesti stálých karavanech, vybavených plynovým vařičem a  s připojením na elektrickou energii. Po dohodě je možné ubytování v karavanech po celý rok. K dispozici je také výlevka na chemické WC.",
+    "img":"http://images.static-hotel.cz/ir/images/photos/1/1/31/autokemp-ubytovna-sk-mseno-2--ifresize640x480.jpg",
+    "www":"www.autokempmseno.sluzby.cz",
+    "address":"Boleslavská - stadion 398, 277 35 Mšeno",
+    "latitude":50.438094,
+    "longitude":14.632511
+  },
+  {
+    "id":14,
+    "name":"Autokemp Karlštejn",
+    "description":"přibližně 30 km směrem na jihozápad od Prahy, v městyse Karlštejn, najdeme nejen jeden z nejkrásnějších hradů České republiky, ale také kemp, kde je možné stání s karavany a obytnými vozy. Jeho poloha je v příjemném prostředí u břehu řeky Berounky v CHKO Český kras.  ",
+    "img":"http://www.ceske-kempy.cz/foto-kempy/autokemp-karlstejn1.jpg",
+    "www":"www.karlstejn-kemp.cz",
+    "address":"Karlštejn, 267 18 Karlštejn",
+    "latitude":49.939504,
+    "longitude":14.188046
+  },
+  {
+    "id":15,
+    "name":"Autocamp Žíchovec",
+    "description":"V obci Žíchovec v okrese Strunkovice nad Blanicí najdeme první z nich. Je umístěn na cestě mezi Vodňany a Prachaticemi, uprostřed půvabné krajiny při kraji Šumavy. Součástí areálu kempu je restaurace  s letní terasou a návštěvníci mají možnost si zde zapůjčit kola.\n \nPro karavany a obytné vozy je zde elektrická přípojka s příkonem 220 V a možnost výměny plynové bomby.",
+    "img":"http://www.dokempu.cz/media/Image/zarizeni/348/chata-sumavanka.jpg",
+    "www":"www.autocamp-zichovec.cz",
+    "address":"Žíchovec, 384 26 Strunkovice nad Blanicí",
+    "latitude":49.081294,
+    "longitude":14.061107
+  },
+  {
+    "id":16,
+    "name":"Camping Olšina - Lipno",
+    "description":"Další z nejvyhledávanějších kempů pro karavany najdeme v Černé v Pošumaví, přímo u břehů lipenského jezera. Lze zde nakoupit základní potraviny a funguje zde stánek s občerstvením. Nachází se zde hřiště, půjčovna loděk, šlapadel a kol.\n \nPro karavany a obytné vozy je zde celkem 180 elektrických přípojek s příkonem 5 KW, výlevka na suché WC a možnost výměny plynové bomby.",
+    "img":"http://www.campingolsina.cz/files/uvodni-strana[2].jpg",
+    "www":"www.campingolsina.cz",
+    "address":"Černá v Pošumaví, 382 23 Černá v Pošumaví",
+    "latitude":48.73552,
+    "longitude":14.114671
+  },
+  {
+    "id":17,
+    "name":"Autocamp Jindřiš",
+    "description":"V okrese Jindřichův Hradec, v obci Jindřiš, se nachází stejnojmenný kemp s dostatkem míst pro karavany a obytné vozy. Jedná se o jeden z nejlépe hodnocených kempů s vlastním soukromým rybníkem a aquaparkem vzdáleným pouhé 3 km (v Jindřichově Hradci). Nové sociální zařízení se sprchami je v ceně ubytování, stejně jako WiFi a internet zdarma. Přímo u recepce je v provozu kiosek se základními potravinami.\n \nKaravanům je zde vymezeno celkem 15 elektrických přípojek, poskytnuta možnost výměny plynových bomb a výlevky na suché WC.",
+    "img":"http://www.ceske-kempy.cz/foto-kempy/autocamp-jindris1.jpg",
+    "www":"www.jindris.cz",
+    "address":"Jindřiš 15, 377 01 Jindřichův Hradec",
+    "latitude":49.131793,
+    "longitude":15.018349
+  },
+  {
+    "id":18,
+    "name":"Autocamp U Čerta",
+    "description":"Asi 1 km od Chlumu u Třeboně, u rybníka Hejtman, leží Autocamp U Čerta. I zde jsou obytné vozy i karavany vítány. Je jim zde poskytnuto celkem 10 elektrických přípojek a možnost výměny plynové bomby.\nRybník nabízí skvělé podmínky ke koupání a rybaření, a okolí pak pro výlety a cykloturistiku.",
+    "img":"http://www.campucerta.cz/campucerta/kemp.jpg",
+    "www":"www.campucerta.cz",
+    "address":"u rybníka Hejtman, 378 04 Chlum u Třeboně",
+    "latitude":48.965375,
+    "longitude":14.940065
+  },
+  {
+    "id":19,
+    "name":"Autocamping Pod Černým lesem Žamberk",
+    "description":"nejlepší kemp roku 2013 v Pardubickém kraji a jeden z TOP 25 a TOP 50 v hodnocení uživatelů. Kemp je součástí rekreačního areálu a je možné se zde ubytovat nejen v karavanech a obytných vozech, ale také v chatkách, srubech nebo stanech. Kemp je otevřen od května do října. Pro karavany je zde výlevka chemických WC a elektrické přípojky.",
+    "img":"http://www.levneubytovani.net/fotky/1600_v.jpg",
+    "www":"www.autocamping.cz",
+    "address":"Nádražní 40, 564 01, Žamberk",
+    "latitude":50.082657,
+    "longitude":16.46374
+  },
+  {
+    "id":20,
+    "name":"Vodácké tábořiště Cakle",
+    "description":"třetí nejlepší kemp roku 2013 a současně také jeden z TOP 50 nejlépe hodnocených kempů v ČR najdeme nedaleko Ústí nad Orlicí. Ubytovat se je možné buď v turistické ubytovně nebo vlastním stanu, karavanu či obytném voze. Areál disponuje volejbalovým hřištěm, bufetem, ohništěm a samozřejmě sociálním zařízením. V kempu je možné zapůjčit si vodácké vybavení, lodě i horolezecké potřeby (v areálu je horolezecká stěna). Pro karavany je zde k dispozici celkem 5 stání.",
+    "img":"http://www.vyletnik.cz/images/profily/users/3242/3242.jpg",
+    "www":"www.cakle.cz",
+    "address":"Staré Oldřichovice 134, 562 01, Ústí nad Orlicí",
+    "latitude":49.985043,
+    "longitude":16.405748
+  },
+  {
+    "id":21,
+    "name":"Autokemp Kraskov",
+    "description":"dalším vysoce hodnoceným kempem pro karavany a obytné vozy v Pardubickém kraji je Autokemp Kraskov, nacházející se v rekreační lokalitě hned vedle zdejšího rybníka. Místa jsou zde pro stany, karavany i obytné vozy, pro které jsou k dispozici elektrické přípojky i výlevky na chemické WC.",
+    "img":"http://www.kemp.cz/admin/upload/ModuleText/71.jpg",
+    "www":"www.kemp.cz/",
+    "address":"Kraskov, 538 07, Seč",
+    "latitude":49.856758,
+    "longitude":15.616815
+  },
+  {
+    "id":22,
+    "name":"Bamboo camp",
+    "description":"kemp s nádechem exotiky nazvaný Bamboo nabízí ubytování nejen pro karavany a obytné vozy, ale též v chatkách, chatách i stanech. Kemp prošel nedávnou rekonstrukcí v exotickém stylu a byl vybaven bambusovým nábytkem, působícím luxusním dojmem. Kemp je umístěn v kouzelné poloze Orlických hor nedaleko Litice nad Orlicí, poblíž lesa, skal a Divoké Orlice. V areálu je možné půjčit si prut, ulovit si pstruha a nechat si ho připravit třeba v udírně nebo na grilu. Je zde sportovní a dětské hřiště, restaurace a venkovní posezení.",
+    "img":"http://www.czech-holiday-guide.com/media/Image/zarizeni/7528/img287311610.jpg",
+    "www":"www.bamboo-camp.cz",
+    "address":"Litice nad Orlicí, 561 86, Záchlumí",
+    "latitude":50.093914,
+    "longitude":16.375493
+  },
+  {
+    "id":23,
+    "name":"Autokemp Seč Pláž",
+    "description":"druhý nejlépe hodnocený kemp roku 2013 v Pardubickém kraji a zároveň jeden z TOP 50 nejlépe hodnocených kempů stejné oblasti najdeme asi 1 km od centra Seče. Pro stany a karavany jsou zde připraveny 2 oddělené zóny, elektrické přípojky a možnost výměny plynové bomby. K dispozici je půjčovna sportovních potřeb, šlapadel i loděk, hřiště, dětské hřiště, skákací hrad a trampolíny. Je zde prodejna s potravinami, rychlé občerstvení a hospůdky.",
+    "img":"http://www.mestosec.cz/images/kemp6.jpg",
+    "www":"www.autokempsec.cz",
+    "address":"Seč, 538 07, Seč",
+    "latitude":49.846937,
+    "longitude":15.65643
+  },
+  {
+    "id":24,
+    "name":"Autokemp Semín",
+    "description":" u průtočného rybníku, napájeného Sopřečkým potokem se nachází Autokemp Semín, otevřený od května do října. Karavanům a obytným vozům jsou zde k dispozici elektrické přípojky. Karavany se zde dají i pronajmout.",
+    "img":"http://www.levneubytovani.net/fotky/1564_v.jpg",
+    "www":"www.autokemp-semin.wz.cz",
+    "address":"Semín, 535 01, Semín",
+    "latitude":50.053088,
+    "longitude":15.519731
+  },
+  {
+    "id":25,
+    "name":"Autokempink Strážnice",
+    "description":"ideální kemp pro rodiny s dětmi najdete v jihomoravské Strážnici. Pro karavany je zde připraveno nové servisní stání včetně výlevky na chemické WC, celkem 150 elektrických přípojek o příkonu 10A a možnost mytí cyklistických kol. K dispozici je půjčovna kol, zmodernizovaná restaurace, jídelna, kuchyňka a nové dětské hřiště.",
+    "img":"http://www.camp-straznice.cz/media/images/uvodni_strana.jpg",
+    "www":"www.camp-straznice.cz",
+    "address":"Bzenecká 1533, Strážnice, 696 92",
+    "latitude":48.903968,
+    "longitude":17.314384
+  },
+  {
+    "id":26,
+    "name":"ATC FREE STAR Strachotín",
+    "description":"podle SMS ankety, konané v letech 2005 a 2006 katalogem Dokempu.cz, se právě ATC Free Star Srachotín umístil na prvním místě v hodnocení uživatelů. \n\nNajdeme ho přímo u hráze Novomlýnské nádrže a kromě své jedinečné polohy je vyhledávaným kempem taky pro možnost rybaření nebo cyklistiky. \n\nPro stany a karavany jsou zde 4 oddělené parcely s 60 elektrickými přípojkami o příkonu 10A a také výlevka na chemické WC.\n \nV kempu je k dispozici bufet s posezením, skluzavka pro děti, bazén, bar, beachvolejbalové hřiště, udírna a dokonce i ochutnávka vín pro hosty kempu.",
+    "img":"http://www.dokempu.cz/media/Image/zarizeni/392/20130522_114156.jpg",
+    "www":"www.freestar.cz",
+    "address":"Šakvická 3, Strachotín, 693 01",
+    "latitude":48.90331,
+    "longitude":16.650192
+  },
+  {
+    "id":27,
+    "name":"Camp Bítov - Vranovská přehrada",
+    "description":"V rámci SMS hlasování uživatelů katalogu Dokempu.cz se právě Camp Bítov umístil na 1. místě v anketě kemp roku 2013 a zároveň i v anketě nejlepší jihomoravský kemp roku 2013.\n \nZaujímá výjimečně nádhernou polohu ve sto metrů hlubokém údolí, kde obepíná jednu ze zátok. Je skvělým tipem na rodinnou dovolenou, prázdniny s přáteli, ale i pro seniory a rybáře.\n \nSkvělé zázemí nabízí Camp Bítov také pro karavany a obytné vozy. Nachází se zde 13 samostatných stání, oddělených živým plotem, disponujících    přípojkou vody, elektřinou a anténním rozvodem (8 programů zdarma). Maximální příkon elektrických přípojek je 16 A. Kromě toho je zde i výlevka na chemické WC a možnost výměny plynové bomby.\n",
+    "img":"http://www.dokempu.cz/media/Image/zarizeni/175/panorama-camp-3.jpg",
+    "www":"www.camp-bitov.cz",
+    "address":"Bítov 64, 671 10 Bítov",
+    "latitude":48.939682,
+    "longitude":15.728779
+  },
+  {
+    "id":28,
+    "name":"Camping Country",
+    "description":"Mezi TOP 25 uživateli nejlépe hodnocených kempů katalogu Dokempu.cz pro rok 2013 se umístil právě Camping Counttry. Najdeme ho v líbezné krajině Jevišovické pahorkatiny.\n \nPro karavany je zde připravena zatravněná plocha s padesáti elektrickými   přípojkami a výlevkou pro suché WC. Kromě recepce má kemp také obchod,          kuchyňku, hřiště nebo společenskou místnost.\n",
+    "img":"http://www.camp-country.cz/image.php?nid=7964&oid=1456184",
+    "www":"www.camp-country.com",
+    "address":"Hluboké Mašůvky 257, 671 52 Hluboké Mašůvky",
+    "latitude":48.920491,
+    "longitude":16.025433
+  }
 ]
